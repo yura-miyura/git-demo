@@ -1,0 +1,15 @@
+/Users/yuriiartymicloud.com/Desktop/C#/git-demo/helloWorld1/bin/Debug/net9.0/helloWorld1
+/Users/yuriiartymicloud.com/Desktop/C#/git-demo/helloWorld1/bin/Debug/net9.0/helloWorld1.deps.json
+/Users/yuriiartymicloud.com/Desktop/C#/git-demo/helloWorld1/bin/Debug/net9.0/helloWorld1.runtimeconfig.json
+/Users/yuriiartymicloud.com/Desktop/C#/git-demo/helloWorld1/bin/Debug/net9.0/helloWorld1.dll
+/Users/yuriiartymicloud.com/Desktop/C#/git-demo/helloWorld1/bin/Debug/net9.0/helloWorld1.pdb
+/Users/yuriiartymicloud.com/Desktop/C#/git-demo/helloWorld1/obj/Debug/net9.0/helloWorld1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuriiartymicloud.com/Desktop/C#/git-demo/helloWorld1/obj/Debug/net9.0/helloWorld1.AssemblyInfoInputs.cache
+/Users/yuriiartymicloud.com/Desktop/C#/git-demo/helloWorld1/obj/Debug/net9.0/helloWorld1.AssemblyInfo.cs
+/Users/yuriiartymicloud.com/Desktop/C#/git-demo/helloWorld1/obj/Debug/net9.0/helloWorld1.csproj.CoreCompileInputs.cache
+/Users/yuriiartymicloud.com/Desktop/C#/git-demo/helloWorld1/obj/Debug/net9.0/helloWorld1.sourcelink.json
+/Users/yuriiartymicloud.com/Desktop/C#/git-demo/helloWorld1/obj/Debug/net9.0/helloWorld1.dll
+/Users/yuriiartymicloud.com/Desktop/C#/git-demo/helloWorld1/obj/Debug/net9.0/refint/helloWorld1.dll
+/Users/yuriiartymicloud.com/Desktop/C#/git-demo/helloWorld1/obj/Debug/net9.0/helloWorld1.pdb
+/Users/yuriiartymicloud.com/Desktop/C#/git-demo/helloWorld1/obj/Debug/net9.0/helloWorld1.genruntimeconfig.cache
+/Users/yuriiartymicloud.com/Desktop/C#/git-demo/helloWorld1/obj/Debug/net9.0/ref/helloWorld1.dll

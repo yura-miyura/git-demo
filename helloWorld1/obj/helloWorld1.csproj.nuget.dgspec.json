@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yuriiartymicloud.com/Desktop/C#/git-demo/CsharpProjects/TestProject/helloWorld1/helloWorld1.csproj": {}
+    "/Users/yuriiartymicloud.com/Desktop/C#/git-demo/helloWorld1/helloWorld1.csproj": {}
   },
   "projects": {
-    "/Users/yuriiartymicloud.com/Desktop/C#/git-demo/CsharpProjects/TestProject/helloWorld1/helloWorld1.csproj": {
+    "/Users/yuriiartymicloud.com/Desktop/C#/git-demo/helloWorld1/helloWorld1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yuriiartymicloud.com/Desktop/C#/git-demo/CsharpProjects/TestProject/helloWorld1/helloWorld1.csproj",
+        "projectUniqueName": "/Users/yuriiartymicloud.com/Desktop/C#/git-demo/helloWorld1/helloWorld1.csproj",
         "projectName": "helloWorld1",
-        "projectPath": "/Users/yuriiartymicloud.com/Desktop/C#/git-demo/CsharpProjects/TestProject/helloWorld1/helloWorld1.csproj",
+        "projectPath": "/Users/yuriiartymicloud.com/Desktop/C#/git-demo/helloWorld1/helloWorld1.csproj",
         "packagesPath": "/Users/yuriiartymicloud.com/.nuget/packages/",
-        "outputPath": "/Users/yuriiartymicloud.com/Desktop/C#/git-demo/CsharpProjects/TestProject/helloWorld1/obj/",
+        "outputPath": "/Users/yuriiartymicloud.com/Desktop/C#/git-demo/helloWorld1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yuriiartymicloud.com/.nuget/NuGet/NuGet.Config"
